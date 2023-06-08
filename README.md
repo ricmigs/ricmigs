@@ -1,8 +1,6 @@
 👋 Hi, I'm Ricardo
 
-I am a PhD student in Linguistics at the University of Lisbon and a research fellow at the <a href="http://labfon.letras.ulisboa.pt"> Phonetics and Phonology Lab</a> & <a href="http://labfon.letras.ulisboa.pt/babylab/index.html"> Lisbon Baby Lab</a>. 
-
-My research interestsd are realted with Language Acquisition, Speech Pathology, Speech Processing and Cognitive sciences.
+My research interests are realted with Language Acquisition, Language Processing and Computationa Linguistics.
 
 🌱 I’m currently learning R and Python!
 
